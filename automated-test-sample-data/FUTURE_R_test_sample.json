@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Answer",
+        "classification": "0"
+    },
+    {
+        "text": "Because I am not",
+        "classification": "0"
+    },
+    {
+        "text": "Al Gore's movie.",
+        "classification": "1"
+    },
+    {
+        "text": "Anything can happen so you don't know what will happen.",
+        "classification": "1"
+    },
+    {
+        "text": "A 3 on my rating certainly because I am using what I know to answer the question one to see the line graph before it goes into the A, B, and C lines shows the stability on the temperature which for my hypothesis I would have to go with the B line. Shows that it is still stable over time when changes continue to happen.",
+        "classification": "2"
+    },
+    {
+        "text": "A has a very good chance of being a high temperature in the future because its going up",
+        "classification": "2"
+    },
+    {
+        "text": "according to the graph it shows that the temperature has increased and each year humans release more co2 which means an increase in temperatures.",
+        "classification": "3"
+    },
+    {
+        "text": "After I reviewed the graph Line A seems to be rising with the temperature warming.",
+        "classification": "3"
+    },
+    {
+        "text": "A rising temperature trend is most likely to occur, due to human activity, but it is not certain. Scientists have proven that the Earth goes through 100,000 year cycles, with 90,000 year ice ages followed by 10,000 year warn interglacial periods. Therefore, it is possible for the Earth to fall back into another ice age soon, as it has been about 12,000 years since the last ice age.",
+        "classification": "4"
+    },
+    {
+        "text": "After close examination of the data, I can assume that the global temperature will follow the same trend as previously shown. As the global population increases, the burning of fossil fuels increases, which increases the carbon dioxide in the atmosphere,",
+        "classification": "4"
+    }
+]

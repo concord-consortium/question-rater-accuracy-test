@@ -1,0 +1,42 @@
+[
+    {
+        "text": ":)",
+        "classification": "0"
+    },
+    {
+        "text": "Again,",
+        "classification": "0"
+    },
+    {
+        "text": "\\the temperature will increase and sometimes decrease as the other continue to rise as the water vapor does.",
+        "classification": "1"
+    },
+    {
+        "text": "#Facts.",
+        "classification": "1"
+    },
+    {
+        "text": "According to the graph,",
+        "classification": "2"
+    },
+    {
+        "text": "According to the model, as the slider is used to demonstrate CO2 emissions, the temperature increases significantly.",
+        "classification": "2"
+    },
+    {
+        "text": "A greenhouse gas is a gas that traps heat. More CO2 in the graph, the more infrared radiation(heat). This results in a temp increase.",
+        "classification": "3"
+    },
+    {
+        "text": "According to the graph as the carbon dioxide increases between 2016-2020 so does the temperature during this duration.",
+        "classification": "3"
+    },
+    {
+        "text": "Although the graph shows us that temperature and carbon dioxide rise in unison, there could be other factors that heat up the earth.",
+        "classification": "4"
+    },
+    {
+        "text": "From the evidence derived from the model, graph, and Muller's book, I am pretty certain the temperature will in fact increase. Higher temperature resulting from increased CO2 will in turn produce more water vapor, raising the temperature even higher. However, the only uncertainty is cloud formation and coverage. Without knowing how clouds form and how much/high, etc, it is impossible to know for sure whether the temperature will increase. It may be possible that an increase in water vapor leads to increased cloud coverage.",
+        "classification": "4"
+    }
+]
