@@ -1,0 +1,42 @@
+[
+    {
+        "text": "A 3 because I'm not sure if its right.",
+        "classification": "0"
+    },
+    {
+        "text": "A bit doubt ,but for sure i am on the right track.",
+        "classification": "0"
+    },
+    {
+        "text": "4, because in the graphs shown above when you take co2 out of the atmosphere the temperatures start to rise.",
+        "classification": "1"
+    },
+    {
+        "text": "According to the graph the carbon dioxide increases as time goes bye/",
+        "classification": "1"
+    },
+    {
+        "text": "After the examination of the given data and model, we analyze the affects of carbon dioxide. However, there can be recent data that can overthrow our claim.",
+        "classification": "2"
+    },
+    {
+        "text": "Air temperature increased on the graph in relation to the amount of C02 in the atmosphere.",
+        "classification": "2"
+    },
+    {
+        "text": "According to the diagram, our prediction came true. Also, since CO2 contributes to greenhouse gases, which cause the atmosphere to hold more heat,",
+        "classification": "3"
+    },
+    {
+        "text": "According to the graph and class discussion, CO2, regulates temperature and keeps the temperature warm",
+        "classification": "3"
+    },
+    {
+        "text": "because it shows in the temperature graph that when there is no carbon dioxide the temperature will go down. However there are limitations to the modal because there are other factors that affect global temperature like the other greenhouse gases.",
+        "classification": "4"
+    },
+    {
+        "text": "Carbon dioxide, methane, and halocarbons are greenhouse gases that absorb a wide range of energy including infrared energy (heat) emitted by the Earth",
+        "classification": "4"
+    }
+]
